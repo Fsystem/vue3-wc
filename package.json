@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/fsystem.cevue-ma9yqj23",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve QnD4nrtMuRHclshyRhb3 --open"
+  }
+}
